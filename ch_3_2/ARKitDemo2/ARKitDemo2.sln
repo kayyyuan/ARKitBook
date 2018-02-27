@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARKitDemo2", "Assembly-CSharp.csproj", "{85C19CF0-7890-E255-93A4-5171659CDD21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARKitDemo2", "Assembly-CSharp-Editor.csproj", "{18407DE4-203A-2DBA-414D-451D7CD5AC00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85C19CF0-7890-E255-93A4-5171659CDD21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C19CF0-7890-E255-93A4-5171659CDD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C19CF0-7890-E255-93A4-5171659CDD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C19CF0-7890-E255-93A4-5171659CDD21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18407DE4-203A-2DBA-414D-451D7CD5AC00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18407DE4-203A-2DBA-414D-451D7CD5AC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18407DE4-203A-2DBA-414D-451D7CD5AC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18407DE4-203A-2DBA-414D-451D7CD5AC00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
